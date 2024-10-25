@@ -14,8 +14,8 @@ Ce projet est une page web interactive qui permet aux développeurs de créer le
 Clonez le dépôt :
 
 ```bash
-  git clone https://github.com/daoodaba975/contributors.git
-  cd contributors
+git clone https://github.com/daoodaba975/contributors.git
+cd contributors
 ```
 
 Ouvrez `index.html` dans votre navigateur pour voir la page en action.
