@@ -5,5 +5,12 @@
     "skills": ["JavaScript", "Flutter"],
     "github": "https://github.com/daoodaba975",
     "image": "https://avatars.githubusercontent.com/u/46088908?v=4"
+  },
+  {
+    "name": "Mouhamadou Fall Bah",
+    "bio": "Full Stack Developer passionate about open-source.",
+    "skills": ["JavaScript", "typescript", "PHP", "Angular", "Laravel", "Ionic"],
+    "github": "https://github.com/mouhamadoufallBah",
+    "image": "https://avatars.githubusercontent.com/u/78548052?v=4"
   }
 ]
